@@ -1,0 +1,6 @@
+name: MiniFeastAddOn
+main: com.pyr0x3n.MiniFeastAddOn.Main
+author: Pyr0x3n
+version: 1.0
+depend: [LibsHungergames]
+load: POSTWORLD

@@ -1,0 +1,7 @@
+#How many mini feast should be spawned during the game
+nbOfMiniFeast: 2
+
+#this message will be sent to all palyer when a min feast spawn
+miniFeastMessage: '&cGood news, a mini Feast spawned somewhere!'
+
+
